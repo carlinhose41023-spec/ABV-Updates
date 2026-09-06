@@ -1,7 +1,6 @@
-latest.json
 {
   "version": "1.2.1",
-  "download_url": "",
+  "download_url": "https://github.com/carlinhose41023-spec/ABV-Updates/releases/download/v1.2.1/ABV_v1_2_1_Configuracoes_Status_Corrigido.zip",
   "sha256": "",
-  "notes": "Primeira configuração do sistema de atualizações do ABV."
+  "notes": "Primeira versão conectada ao sistema de atualizações automáticas do ABV."
 }
