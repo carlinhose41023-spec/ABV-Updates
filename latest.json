@@ -1,7 +1,7 @@
 {
-  "version": "3.3.1",
+  "version": "3.4.0",
   "channel": "stable",
-  "download_url": "https://github.com/carlinhose41023-spec/ABV-Updates/releases/download/v3.3.1/ABV_Update_v3_3_1.zip",
-  "sha256": "a9953cff19f321db33346591d93fab557f623bbc6e2287873d087c3ff17a2a90",
-  "notes": "ABV v3.3.1 - Painel, Viagem e Telemetria Corrigidos"
+  "download_url": "https://github.com/carlinhose41023-spec/ABV-Updates/releases/download/v3.4.0/ABV_Update_v3_4_0.zip",
+  "sha256": "a538325c527a4bff2675b87afeef03c29acbe93985ecdbe0c50a4ffccd995d14",
+  "notes": "ABV v3.4.0 - Telemetria Nativa Completa"
 }
