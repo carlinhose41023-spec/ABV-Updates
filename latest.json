@@ -1,6 +1,7 @@
-{
-  "version": "1.3.0",
-  "download_url": "https://github.com/carlinhose41023-spec/ABV-Updates/releases/download/v1.3.0/ABV_v1_3_0.zip",
-  "sha256": "",
-  "notes": "ABV v1.3.0 - Primeira versão executável do Assistente de Bordo Virtual."
-}
+cd "C:\Users\carli\Downloads"
+git clone https://github.com/carlinhose41023-spec/ABV-Updates.git
+cd ABV-Updates
+Copy-Item "C:\Users\carli\Downloads\Atualizaçãoes ABV\ABV_v2_5_3_Correcao_Economia_Update\ABV_Python_v2_5_3_Correcao_Economia_Update\release\latest.json" ".\latest.json" -Force
+git add latest.json
+git commit -m "Atualiza ABV para v2.5.3"
+git push
