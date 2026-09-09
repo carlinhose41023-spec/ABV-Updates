@@ -1,8 +1,1 @@
-@'
-{
-  "version": "2.5.3",
-  "download_url": "https://github.com/carlinhose41023-spec/ABV-Updates/releases/download/v2.5.3/ABV_Update_v2_5_3.zip",
-  "sha256": "",
-  "notes": "Correção da economia por entrega. Salário do mês, bônus do mês e saldo ABV agora somam ao concluir cada viagem."
-}
-'@ | Set-Content -Path ".\release\latest.json" -Encoding UTF8
+Copy-Item "C:\Users\carli\Downloads\Atualizaçãoes ABV\ABV_v2_5_3_Correcao_Economia_Update\ABV_Python_v2_5_3_Correcao_Economia_Update\release\latest.json" ".\latest.json" -Force
