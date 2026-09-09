@@ -1,7 +1,7 @@
 {
-  "version": "3.2.4",
+  "version": "3.2.5",
   "channel": "stable",
-  "download_url": "https://github.com/carlinhose41023-spec/ABV-Updates/releases/download/v3.2.4/ABV_Update_v3_2_4.zip",
-  "sha256": "fd112d647ea89e813730faf8fdb8ec86ddab4fe71a24394dc04b51814c267e19",
-  "notes": "ABV v3.2.4 - Transição Suave e Estável"
+  "download_url": "https://github.com/carlinhose41023-spec/ABV-Updates/releases/download/v3.2.5/ABV_Update_v3_2_5.zip",
+  "sha256": "4c224100b0e196ec191a29df96d905fca0d123af5be96a6d4ddd16625df8de8b",
+  "notes": "ABV v3.2.5 - Abertura Normal e Estável"
 }
