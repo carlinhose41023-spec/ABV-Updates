@@ -2,7 +2,6 @@
   "version": "3.1.0",
   "channel": "stable",
   "download_url": "https://github.com/carlinhose41023-spec/ABV-Updates/releases/download/v3.1.0/ABV_Update_v3_1_0.zip",
-  "sha256": "15d84d099641076125199686c89013b72ad34f5097374352dd0a9518bf0a0935
-",
+  "sha256": "15d84d099641076125199686c89013b72ad34f5097374352dd0a9518bf0a0935",
   "notes": "ABV v3.1.0 - Perfil do Motorista e Molduras. Adicionado avatar do motorista no Modo Carreira ABV, troca de foto, sistema de molduras desbloqueáveis, seleção de molduras já conquistadas, efeitos de brilho animados e salvamento permanente do perfil."
 }
