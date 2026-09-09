@@ -1,7 +1,7 @@
 {
-  "version": "3.2.2",
+  "version": "3.2.3",
   "channel": "stable",
-  "download_url": "https://github.com/carlinhose41023-spec/ABV-Updates/releases/download/v3.2.2/ABV_Update_v3_2_2.zip",
-  "sha256": "e1eb9a3939e682cff7af7bc6330505bcf6bce198279dea919ae772e474cdbd30",
-  "notes": "ABV v3.2.2 - Abertura Sem Piscada"
+  "download_url": "https://github.com/carlinhose41023-spec/ABV-Updates/releases/download/v3.2.3/ABV_Update_v3_2_3.zip",
+  "sha256": "dd26f4a2109dc8eaca65b6dd501ab6d996f91a92461708dd64d732e51212148d",
+  "notes": "ABV v3.2.3 - Estabilidade e Segurança"
 }
