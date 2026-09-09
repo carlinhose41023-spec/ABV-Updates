@@ -2,6 +2,6 @@
   "version": "3.1.4",
   "channel": "stable",
   "download_url": "https://github.com/carlinhose41023-spec/ABV-Updates/releases/download/v3.1.4/ABV_Update_v3_1_4.zip",
-  "sha256": "c0a57ecefc9cf66e846f77d76f3b788796d5b4010d84423445e52748f097f5f2",
+  "sha256": "877fd1665372fd6764adf7db8a536841267f59e310a6e8a3e60643350eb6e260",
   "notes": "ABV v3.1.4 - Correcao ONEDIR para inicializacao do ABV."
 }
