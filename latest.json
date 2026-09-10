@@ -1,7 +1,7 @@
 {
-  "version": "3.4.0",
+  "version": "3.4.1",
   "channel": "stable",
-  "download_url": "https://github.com/carlinhose41023-spec/ABV-Updates/releases/download/v3.4.0/ABV_Update_v3_4_0.zip",
-  "sha256": "a538325c527a4bff2675b87afeef03c29acbe93985ecdbe0c50a4ffccd995d14",
-  "notes": "ABV v3.4.0 - Telemetria Nativa Completa"
+  "download_url": "https://github.com/carlinhose41023-spec/ABV-Updates/releases/download/v3.4.1/ABV_Update_v3_4_1.zip",
+  "sha256": "45e5cfd9963669f20c9ebc9b76883025dc730065c793d85b684d307ad04246b3",
+  "notes": "ABV v3.4.1 - Dashboard Clássico e Telemetria Corrigida"
 }
