@@ -1,7 +1,7 @@
 {
-  "version": "3.4.1",
+  "version": "2.6.1",
   "channel": "stable",
-  "download_url": "https://github.com/carlinhose41023-spec/ABV-Updates/releases/download/v3.4.1/ABV_Update_v3_4_1.zip",
-  "sha256": "45e5cfd9963669f20c9ebc9b76883025dc730065c793d85b684d307ad04246b3",
-  "notes": "ABV v3.4.1 - Dashboard Clássico e Telemetria Corrigida"
+  "download_url": "https://github.com/carlinhose41023-spec/ABV-Updates/releases/download/v2.6.1/ABV_Update_v2_6_1.zip",
+  "sha256": "96457841878b760bebf50c89376fd123cd1553b9218b0871f2f018c5b478e9c6",
+  "notes": "ABV v2.6.1 - Versão estável com Dashboard Clássico, Carreira/XP e Gaby FranciscaNeural"
 }
