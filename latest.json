@@ -1,7 +1,7 @@
 
 {
-  "version": "2.6.5",
-  "download_url": "https://github.com/carlinhose41023-spec/ABV-Updates/releases/download/v2.6.5/ABV-v2.6.5-win64.zip",
-  "sha256": "3453fb5d259523a355623c920b218f6772481ed3c4a2d3467c5b6f30b6d91506",
+  "version": "2.6.6",
+  "download_url": "https://github.com/carlinhose41023-spec/ABV-Updates/releases/download/v2.6.6/ABV-v2.6.6-win64.zip",
+  "sha256": "COLOCAR_AQUI_O_SHA256_REAL_DO_ZIP",
   "update_mode": "auto"
 }
