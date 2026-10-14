@@ -1,6 +1,7 @@
-git status
-git add .
-git commit -m "ABV v2.6.7 - correções e atualização manual por ZIP"
-git tag -a v2.6.7 -m "ABV versão 2.6.7"
-git push origin main
-git push origin v2.6.7
+
+{
+  "version": "2.6.7",
+  "download_url": "https://github.com/carlinhose41023-spec/ABV-Updates/releases/download/v2.6.7/ABV-v2.6.7-win64.zip",
+  "sha256": "",
+  "update_mode": "auto"
+}
